@@ -1,0 +1,2 @@
+# simulation-of-washing-machine-using-FLC
+The aim is to design and simulate Fuzzy Logic control system in washing machine. Washing machine is one of the main machines in the household. Therefore, it is necessary to control the washing machine system to facilitate the user, reduce the time, electricity consumption, and water in washing water. Fuzzy Logic is an efficient approach in complex control systems compared to conventional approaches.
